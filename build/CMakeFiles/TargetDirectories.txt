@@ -1,0 +1,3 @@
+/home/ramil/vSlam/build/CMakeFiles/rebuild_cache.dir
+/home/ramil/vSlam/build/CMakeFiles/run_stereo.dir
+/home/ramil/vSlam/build/CMakeFiles/edit_cache.dir
