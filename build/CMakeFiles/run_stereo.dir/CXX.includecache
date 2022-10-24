@@ -15,8 +15,20 @@ opencv2/opencv.hpp
 -
 visual_odometry.cpp
 /home/ramil/vSlam/src/visual_odometry.cpp
+chrono
+-
 
 /home/ramil/vSlam/src/visual_odometry.cpp
+opencv2/opencv.hpp
+-
+opencv2/features2d.hpp
+-
+opencv2/xfeatures2d.hpp
+-
+opencv2/xfeatures2d/nonfree.hpp
+-
+string
+-
 
 /usr/local/include/opencv4/opencv2/./imgproc/segmentation.hpp
 opencv2/imgproc.hpp
