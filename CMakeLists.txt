@@ -6,8 +6,8 @@ set(CMAKE_CXX_STANDARD 17)
 
 
 find_package(OpenCV REQUIRED)
-
+find_package(Eigen3 REQUIRED)
 
 
 add_executable(run_stereo src/run_stereo.cpp)
-target_link_libraries(run_stereo ${OpenCV_LIBS} stdc++fs)
+target_link_libraries(run_stereo ${OpenCV_LIBS} Eigen3::Eigen stdc++fs)

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/run_stereo.dir/src/run_stereo.cpp.o"
-  "run_stereo.pdb"
   "run_stereo"
+  "run_stereo.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
